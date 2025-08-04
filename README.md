@@ -15,7 +15,7 @@ The task is to build a model that can automatically determine whether a tweet re
 
 ## What I did
 1. Preprocessing
-  - Removed irrelevant columns like id
+    - Removed irrelevant columns like id
   - Cleaned tweet text (lowercasing, punctuation removal, etc.)
   - Created new features:
       - text_len: number of characters in the tweet
